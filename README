@@ -1,0 +1,22 @@
+# 🚀 Enterprise Resource Planning (CRP) Dashboard
+
+A high-performance static analytics engine written in **C**. This tool processes raw CSV data and server logs to generate a visual, interactive HTML dashboard without requiring a backend framework.
+
+## 🛠️ Tech Stack
+* **Core Engine:** C (Modular Architecture)
+* **Frontend:** HTML5, CSS3, Embedded JavaScript
+* **Data Source:** CSV & Flat Log Files
+
+## 📂 Project Structure
+* `main.c` - The system kernel that orchestrates the build.
+* `sales.c` - Generates SVG graphs from sales data.
+* `inventory.c` - Analyzes stock levels and flags shortages.
+* `logs.c` - Parses unstructured server logs for security threats.
+* `modules.h` - Header file linking the architecture.
+
+## ⚡ How to Run
+Prerequisite: GCC Compiler
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Abhinashxsahoo/CRP-Dashboard.git](https://github.com/Abhinashxsahoo/CRP-Dashboard.git)
