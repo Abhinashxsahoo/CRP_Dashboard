@@ -1,0 +1,5 @@
+gcc main.c sales.c inventory.c logs.c -o dashboard
+
+// Run the engine:
+//Windows: .\dashboard.exe
+//Linux/Mac: ./dashboard
